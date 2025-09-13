@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Administration System
 
 This is a small Java console project I made for my coursework.  
@@ -42,3 +43,7 @@ Later I can add:
 ## Author
 **Name:** Akshai Hari
 
+=======
+# College_Administration_Console_System
+The College Administration Console System is a centralized, user-friendly digital platform designed to streamline and automate various administrative tasks within a college or university. This system enables administrators, faculty, and staff to efficiently manage academic and operational processes through a secure.
+>>>>>>> 734cc9aec05597094b56be94f8ec858951e77dd8
